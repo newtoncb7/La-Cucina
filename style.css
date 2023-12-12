@@ -1,0 +1,46 @@
+body {
+  background-image: url("Home/Background.jpg");
+  background-repeat: repeat;
+  background-size: 100%;
+}
+
+h1 {
+  font-family: 'Prata', serif;
+  color: #272572;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  color: #272572;
+  font-size: 18px;
+}
+
+p {
+  font-size: 15px;
+}
+/* NAV BAR */
+nav {
+  background-color: #FDF6E7;
+
+}
+
+
+/* END NAV BAR */
+
+/* MENU */
+
+
+.btn btn-primary {
+  background-color: #FDF6E7;
+}
+
+.container-md {
+  padding-top: 200px;
+}
+
+
+
+
+
+
+
